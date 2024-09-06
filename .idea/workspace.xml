@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd995ee3-7b9d-48fc-8909-6ac14c36cb8b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Atividade_1_Inicializacao_e_Acesso_a_Elementos_do_Vetor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="bd995ee3-7b9d-48fc-8909-6ac14c36cb8b" name="Changes" comment="Atividades 3">
+      <change afterPath="$PROJECT_DIR$/src/Atividade_2_Operacoes_Simples_com_Elementos_do_Vetor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,11 +73,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1725580740283</updated>
-      <workItem from="1725580741424" duration="660000" />
+      <workItem from="1725580741424" duration="1132000" />
     </task>
+    <task id="LOCAL-00001" summary="Atividades 3">
+      <option name="closed" value="true" />
+      <created>1725581557743</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725581557743</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Atividades 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Atividades 3" />
   </component>
 </project>
