@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd995ee3-7b9d-48fc-8909-6ac14c36cb8b" name="Changes" comment="Atividades 3">
-      <change afterPath="$PROJECT_DIR$/src/Atividade_2_Operacoes_Simples_com_Elementos_do_Vetor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atividade_3_Troca_de_Valores_entre_Elementos_do_Vetor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +47,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Atividade_1_Inicializacao_e_Acesso_a_Elementos_do_Vetor.executor": "Run",
+    "Application.Atividade_2_Operacoes_Simples_com_Elementos_do_Vetor.executor": "Run",
+    "Application.Atividade_3_Troca_de_Valores_entre_Elementos_do_Vetor.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -73,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1725580740283</updated>
-      <workItem from="1725580741424" duration="1132000" />
+      <workItem from="1725580741424" duration="3337000" />
     </task>
     <task id="LOCAL-00001" summary="Atividades 3">
       <option name="closed" value="true" />
@@ -83,7 +86,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725581557743</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Atividades 3">
+      <option name="closed" value="true" />
+      <created>1725581972018</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725581972018</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
